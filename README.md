@@ -3,7 +3,7 @@ This is a Linux Quiz App built using React and Zustand for state management. It 
 
 
 # Demo
-
+https://github.com/user-attachments/assets/56b75b5f-a123-4916-be3c-3787b04a3e34
 
 
 
