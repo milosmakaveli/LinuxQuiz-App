@@ -1,5 +1,5 @@
 # LinuxQuiz-App
-This is a Linux Quiz App built using React and Zustand for state management. It allows users to test their knowledge on Linux by answering multiple-choice questions.
+This is a Linux Quiz App built using React and [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction) for state management. It allows users to test their knowledge on Linux by answering multiple-choice questions.
 
 
 # Demo
